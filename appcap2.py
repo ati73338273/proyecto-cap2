@@ -4,3 +4,4 @@ print('ERROR')
 print("prueba reset")
 #Cambio a revertir
 def mostrar_perfil(nombre,rol): return f"Usuario:{nombre}| Rol:{rol}"
+print(saludar("Carlos"))
